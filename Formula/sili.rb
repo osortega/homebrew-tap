@@ -2,7 +2,7 @@ class Sili < Formula
   desc     "Codespace resource manager with auto-tunnel"
   homepage "https://github.com/osortega/sili"
   url      "https://github.com/osortega/sili/archive/refs/tags/v0.1.0.tar.gz"
-  sha256   "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256   "fa642b7a3770bd67a8bc64a9295d83f3e2e33a1bc164ae8822f2b183bd832af4"
   license  "MIT"
 
   depends_on "gh"
